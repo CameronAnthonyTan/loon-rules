@@ -1,0 +1,18 @@
+# Longbridge 长桥证券 分流规则
+# 更新日期: 2026-06-14
+# 建议策略组: HK 或 SG（低延迟节点）
+
+DOMAIN-SUFFIX,longbridge.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,longbridge.cn,🇭🇰 Longbridge
+DOMAIN-SUFFIX,longbridgehk.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,app.longbridgehk.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,trade.longbridge.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,openapi.longbridge.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,openapi.longbridge.cn,🇭🇰 Longbridge
+DOMAIN-SUFFIX,openapi-quote.longbridge.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,openapi-trade.longbridge.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,lbkrs.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,static.lbctrl.com,🇭🇰 Longbridge
+DOMAIN-SUFFIX,assets.lbkrs.com,🇭🇰 Longbridge
+
+# 如有更多域名，后续再补充
